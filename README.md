@@ -1,3 +1,5 @@
 # pokemongenerator
 
-A GAN for generating new pokemon images. 
+A DCGAN/WGAN implementaion for generating new pokemon images. 
+
+Datset Used: https://www.kaggle.com/kvpratama/pokemon-images-dataset
