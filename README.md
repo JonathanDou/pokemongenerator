@@ -6,4 +6,4 @@ Datset Used: https://www.kaggle.com/kvpratama/pokemon-images-dataset
 
 Generated Pokemon:
 
-![alt text](https://github.com/JonathanDou/pokemongenerator/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/JonathanDou/pokemongenerator/blob/master/generated.png?raw=true)
